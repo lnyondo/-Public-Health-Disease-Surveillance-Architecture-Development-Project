@@ -1,5 +1,9 @@
-# -Public-Health-Disease-Surveillance-Architecture-Development-Project
+# Public Health Disease Surveillance Architecture Development Project
 🏥Developed by Lusubilo Nyondo| MSc in Health Informatics| Michigan Technological University
+
+## Project Overview:
+This project focused on developing a simulated public health disease surveillance architecture using virtual machines to represent hospitals and a central health information exchange (HIE). By integrating OpenEMR, HAPI-FHIR, Synthea, and Google Looker Studio, the system demonstrates how health data can be securely captured, exchanged, and visualized to support real-time public health decision-making
+
 ## Project Ojectives and Activities
 * 🖥️ Develop 5 Virtual Machines (4 hospitals and 1 HIE); VM's are a safe testing environment in network architecture and development  
 * 💻 Install and Configure OpenEMR into the hospital machines  
@@ -9,6 +13,7 @@
 * 📊 Analyse and intepret data received through HAPI-FHIR to identify public health priorities such as disease trends to make informed decisions for public health interventions  
 * 🔄 Understand the role of HAPI-FHIR in exchanging HL7 FHIR messages from EHR for critical public health surveilance  
 * 📈 Visualize the extracted data in Google Looker studio 
+
 ## Technologies Used
 1. Ubuntu Linux in VMalware Workstation
 2. OpenEMR
