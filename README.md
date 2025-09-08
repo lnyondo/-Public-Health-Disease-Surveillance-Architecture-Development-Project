@@ -1,5 +1,4 @@
 # Public Health Disease Surveillance Architecture Development Project
-🏥Developed by Lusubilo Nyondo| MSc in Health Informatics| Michigan Technological University
 
 ## Project Overview:
 This project focused on developing a simulated public health disease surveillance architecture using virtual machines to represent hospitals and a central health information exchange (HIE). By integrating OpenEMR, HAPI-FHIR, Synthea, and Google Looker Studio, the system demonstrates how health data can be securely captured, exchanged, and visualized to support real-time public health decision-making
